@@ -1,0 +1,47 @@
+#Define info
+
+info = [
+    {
+        "FlightId": 1001,
+        "Airline": "Delta",
+        "Departing": "MCO",
+        "Arriving": "ORD",
+        "DepartureTime": "6:45 am"
+    },
+    {
+        "FlightId": 1002,
+        "Airline": "Spirit",
+        "Departing": "CVG",
+        "Arriving": "CLT",
+        "DepartureTime": "7:11 am"
+    },
+    {
+        "FlightId": 1003,
+        "Airline": "American",
+        "Departing": "AHN",
+        "Arriving": "LAS",
+        "DepartureTime": "8:33 am"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
